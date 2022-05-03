@@ -190,3 +190,9 @@ background-color: white;
     margin-top: 10px;
     color: #f05f40;
 }
+
+/* mailchimp */
+
+#mc_embed_signup form {
+    padding: 0px;
+}
